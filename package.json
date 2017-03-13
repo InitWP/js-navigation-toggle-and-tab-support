@@ -1,0 +1,9 @@
+{
+	"name": "JS: Navigation toggle and tab support for dropdown menus",
+	"type": "module",
+	"version": "0.1.0",
+	"description": "Handles toggling the navigation menu for small screens and enables TAB key navigation support for dropdown menus.",
+	"files": [
+		"js-navigation-toggle-and-tab-support.js"
+    ]
+}
